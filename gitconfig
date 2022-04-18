@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ellocura@gmail.com
+	name = luis sanchez
